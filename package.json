@@ -46,7 +46,7 @@
     "typescript": "^3.5.1",
     "uglify-js": "^3.6.8",
     "webpack": "^4.41.2",
-    "webpack-cli": "^3.3.10",
+    "webpack-cli": "^3.3.12",
     "webpack-dev-server": "^3.9.0"
   },
   "peerDependencies": {
